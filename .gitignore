@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+data/*.sqlite3
+checkpoints/*.pt
+checkpoints/*.tmp
+.env
